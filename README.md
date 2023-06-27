@@ -6,6 +6,6 @@
 <h3>About me</h3>
 <h2>I am a third year student in software engineering with a focus on Java development</h2>
 <h3>Languages</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CacaoLovers&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CacaoLovers)](https://github.com/anuraghazra/github-readme-stats)
 
 
